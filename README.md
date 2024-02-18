@@ -1,7 +1,7 @@
 <html>
-  
+  <head>
   <title>first</title>
-  
+  </head>
   <body>
     my first program
     <script>
